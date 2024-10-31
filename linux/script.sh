@@ -1,2 +1,2 @@
 !/bin/bash
-echo " Hello Git hub! "
+echo " Hello from Git hub! "
